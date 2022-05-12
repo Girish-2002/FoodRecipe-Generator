@@ -1,1 +1,5 @@
-# FoodRecipe-Generator
+# MealFinder
+
+# Flow Diagram
+
+![](mealApp.png)
